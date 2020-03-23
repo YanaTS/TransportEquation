@@ -1,0 +1,15 @@
+﻿  TransportEquation.cpp
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(114): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(115): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(241): warning C4101: 'hdc': unreferenced local variable
+C:\Users\teren\Projects\Test1\TransportEquation\TransportEquation\TransportEquation.cpp(242): warning C4101: 'ps': unreferenced local variable
+  TransportEquation.vcxproj -> C:\Users\teren\Projects\Test1\TransportEquation\Debug\TransportEquation.exe
